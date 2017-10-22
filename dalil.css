@@ -1,0 +1,64 @@
+body            
+{margin: 0px;padding: 0px}
+
+
+
+
+.header            
+{ height: 80px;width: 100%; background-color: #eee; border-bottom: 1px #b48787; border-bottom-style: groove;}      
+                
+.search-bar
+{ display:block;padding-left: 400px;background-color: none }
+
+.search-input           
+{height:40px;background:left;direction:ltr;padding:10px;margin: 6px ;background-color:#fff ;font-size: 20px ;color: #000 ;
+float: left ;border-radius: 20px ;text-align: right ; color: #000;width: 550px;  border-width:thin;padding-top: 15px;margin-top: 25px  }
+                
+.button-search         
+{ background-color: none ; height: 40px ;width: 70px; margin: 6px ;padding: 10px ;float: left ; border-radius: 20px ;text-align: center ;
+  margin-top: 25px;font-size: 15px ;font-weight: bold ; border-width:thin}             
+
+.language choose
+{ position: fixed;right: 0px;top: 0px}
+                    
+
+                
+
+        
+
+.container         
+{ height: 500px ;width:1200px ;background-color: #f7efef ;margin-left: 70px;padding-top: 90px }
+                
+.d2-1
+{ font-size: 45px ; width: 340px ; height: 55px ; padding: 15px ; margin: 15px ;direction: rtl;
+float: right;background-color:#E2D7D7 ;text-align: center ;border-radius: 40px ;border: 0px solid #000;}
+                    
+.d2-1:hover 
+{ background-color: #B7B7B7}
+                    
+.d2-1-1 
+{ color: #000;text-decoration: none ; font-size: 40px ; font-weight: bold; font-family: cursive }
+                
+.d2-1-1:hover   
+{ color: #000;font-weight: bold;text-decoration: blink ; font-size: 45px ; font-family: cursive ; background-color:#B7B7B7}
+
+
+
+
+.footer         
+{ color: #000; width: 100%; height: 60px ; position:inherit; bottom: 0px;background-color:#eee;border-top: 1px #b48787;border-top-style: groove}
+
+.footer-links        
+{ color: #000;text-decoration: none ; font-size: 15px ; font-family: Arial ;font-weight: bold}
+                
+.footer-links:hover   
+{ color:#000;font-weight:  ;text-decoration: inherit ; font-size: 15px ;font-family: Arial; font-weight: bold; }
+
+.footer-Copyrights            
+{ color: #000 ; font-size: 25px ;text-align: center ; padding-top: 30px}
+
+.footer-container1            
+{ float: left;padding: 5px}        
+
+.footer-container2            
+{ float: right;padding: 5px} 
